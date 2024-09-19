@@ -2,4 +2,6 @@
 
 cd D:\DSP\tm-my-image-model
 
-python test.py
+python -m http.server
+
+http://localhost:8000
